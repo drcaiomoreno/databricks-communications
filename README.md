@@ -1,4 +1,4 @@
-# Databricks Telco
+# Databricks Communications
 The aim of this repo is to help the Communications Community to use Databricks.
 
 ### Lab - Graph Analytics for Telco Customer Churn Prediction
