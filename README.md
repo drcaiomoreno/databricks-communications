@@ -2,15 +2,18 @@
 The aim of this repo is to help the Telco Community to use Databricks.
 
 ### Lab - Graph Analytics for Telco Customer Churn Prediction
-https://www.databricks.com/solutions/accelerators/graph-analytics-telco-customer-churn-prediction
+https://www.databricks.com/solutions/accelerators/graph-analytics-telco-customer-churn-prediction<BR>
 
 ### Lab - Telco Network Analytics
-https://www.databricks.com/solutions/accelerators/telco-network-analytics
+https://www.databricks.com/solutions/accelerators/telco-network-analytics<BR>
 
 
 ### Databricks - Communications 
-https://www.databricks.com/solutions/industries/communications
-https://www.databricks.com/customers/all#industry=2370
+https://www.databricks.com/solutions/industries/communications<BR>
+https://www.databricks.com/customers/all#industry=2370<BR>
+
+### Unlock your data with AI - Explore the Databricks Data Intelligence Platform for Communications
+https://www.databricks.com/resources/ebook/unlock-your-data-ai<BR>
 
 ### Databricks for Industry
 No-compromise data analytics and AI solutions purpose-built for your industry<BR>
