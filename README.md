@@ -1,6 +1,9 @@
 # Databricks Communications
 The aim of this repo is to help the Communications Community to use Databricks.
 
+### Telefónica España's transformation with Microsoft Azure: Enhancing network performance through big data and AI
+https://www.microsoft.com/en/customers/story/21150-telefonica-group-spain-azure-ai-and-machine-learning
+
 ### Lab - Graph Analytics for Telco Customer Churn Prediction
 https://www.databricks.com/solutions/accelerators/graph-analytics-telco-customer-churn-prediction<BR>
 
@@ -30,6 +33,8 @@ https://www.databricks.com/resources
 ### Customers Stories:
 AT&T: Protecting 182 million wireless customers from harm<BR>
 https://www.databricks.com/customers/att<BR>
+https://www.databricks.com/customers/att/migration<BR>
+https://www.databricks.com/customers/att-adb<BR>
 https://www.youtube.com/watch?v=V7TXzkePjjw<BR>
 
 Comcast: Transforming home entertainment with voice, data and AI<BR>
