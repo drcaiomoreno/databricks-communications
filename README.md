@@ -47,5 +47,8 @@ https://www.databricks.com/customers/t-mobile<BR>
 Rogers: How Lakehouse Architecture Empowered Rogers Communications to Modernize Revenue Assurance<BR>
 https://www.databricks.com/blog/2022/07/21/how-the-lakehouse-empowered-rogers-communications-to-modernize-revenue-assurance.html<BR>
 
+Minecraft - Driving gamer personalization for millions<BR>
+https://www.databricks.com/customers/mojang<BR>
+
 ### Customers Stories - Caio's Blog Post
 https://caiomsouza.medium.com/at-t-uses-databricks-to-stop-fraud-before-it-happens-60582d23876b
