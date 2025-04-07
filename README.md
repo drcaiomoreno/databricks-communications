@@ -50,5 +50,8 @@ https://www.databricks.com/blog/2022/07/21/how-the-lakehouse-empowered-rogers-co
 Minecraft - Driving gamer personalization for millions<BR>
 https://www.databricks.com/customers/mojang<BR>
 
+Apple - Structured Streaming Use-Cases<BR>
+https://www.youtube.com/watch?v=bcIJFCtsRXs<BR>
+
 ### Customers Stories - Caio's Blog Post
 https://caiomsouza.medium.com/at-t-uses-databricks-to-stop-fraud-before-it-happens-60582d23876b
