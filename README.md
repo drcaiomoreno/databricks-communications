@@ -50,6 +50,9 @@ https://www.databricks.com/blog/2022/07/21/how-the-lakehouse-empowered-rogers-co
 Minecraft - Driving gamer personalization for millions<BR>
 https://www.databricks.com/customers/mojang<BR>
 
+Apple - Scaling Security Threat Detection with Apache Spark and Databricks<BR>
+https://www.youtube.com/watch?v=YxTE4mff5dk<BR>
+
 Apple - Structured Streaming Use-Cases<BR>
 https://www.youtube.com/watch?v=bcIJFCtsRXs<BR>
 
